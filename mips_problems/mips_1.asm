@@ -28,4 +28,8 @@ store:
 end:
     li $v0, 10
     syscall
+
+# jump: saltos sem condição
+# branch: saltos condicionais 
+# offset = (edereco base - (PC+4))/4
 	
