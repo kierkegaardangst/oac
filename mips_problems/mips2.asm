@@ -1,3 +1,5 @@
+# Achar o maior elemento em um vetor 
+
 .data
     vector: .word 4, 2, 3, 1, 5, -10
     vector_size: .word 6
